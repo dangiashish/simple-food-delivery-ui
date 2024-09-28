@@ -2,8 +2,14 @@
 
 This project showcases a simple and intuitive user interface for a food delivery application, designed using Android.
 
-### Figma Designs :
-- https://www.figma.com/design/Wpd40vI7eTb6b2yy0IxHQO/food-app?m=auto&t=p9n2YDyojxHzlRQ7-6
+### Figma Designs By :
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQFe88AojiqD_w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1685602893838?e=1732752000&v=beta&t=4QrMmyBt6_-bCo4noxSq8Qza4py6SPN5PQNt5qbzQmo" alt="Author Image" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"/>
+
+
+Monika Kumari</strong>
+- Follow on LinkedIn :  [Monika Kumari](https://www.linkedin.com/in/monika-kumari-a057011a1)
+
+- Figma - https://www.figma.com/design/Wpd40vI7eTb6b2yy0IxHQO/food-app?m=auto&t=p9n2YDyojxHzlRQ7-6
 
 ## Features
 
@@ -21,6 +27,16 @@ This project showcases a simple and intuitive user interface for a food delivery
 - **CardView**: To display each food item with an image, description, and price.
 
 ## Screenshots
+# Screenshots
+
+<img src="https://github.com/user-attachments/assets/82716fc9-9ead-4f8e-913f-99f7ecd1ea6a" alt="Screenshot 1" width="300" height="600"/>
+
+<img src="https://github.com/user-attachments/assets/8aa517ee-6675-4ac3-8a5a-8086a906ebfc" alt="Screenshot 2" width="300" height="600"/>
+
+<img src="https://github.com/user-attachments/assets/b7fc2618-68d6-4fae-98b2-7b89d59aea7e" alt="Screenshot 3" width="300" height="600"/>
+
+<img src="https://github.com/user-attachments/assets/253867ad-239c-489e-82f6-19d83cd10c07" alt="Screenshot 4" width="300" height="600"/>
+
 
 
 
