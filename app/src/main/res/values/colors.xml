@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#D9AD14</color>
+    <color name="green">#237927</color>
+    <color name="red">#D32F2F</color>
+    <color name="themeColor">#6E30BD</color>
+
+    <color name="top_grad">#3F008E</color>
+    <color name="bottom_grad">#8A41E7</color>
+    <color name="textColor">#3F008E</color>
+    <color name="gray">#8B8B8B</color>
+    <color name="gray_lite">#EEEEEE</color>
+    <color name="selected_bg_color">#6E30BD</color>
+</resources>
